@@ -1,2 +1,2 @@
 # EstudingVuejs
-Repositório destinado a projetos em para estudos em Vue.js
+Repositório destinado a projetos para estudos em Vue.js
